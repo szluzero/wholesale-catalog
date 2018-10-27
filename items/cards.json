@@ -1,25 +1,25 @@
 {
     "Card1": {
       "Name": "Us butts",
-      "Img": "/images/card1.jpg",
+      "Img": "./images/card1.jpg",
       "Price": "$22.99",
       "Description": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
     },
     "Card2": {
       "Name": "Some bunny",
-      "Img": "/images/card2.jpg",
+      "Img": "./images/card2.jpg",
       "Price": "$20.99",
       "Description": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
     },
     "Card3": {
       "Name": "Wait... was this cake for you?",
-      "Img": "/images/card3.jpg",
+      "Img": "./images/card3.jpg",
       "Price": "$22.99",
       "Description": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
     },
     "Card4": {
       "Name": "Penguins",
-      "Img": "/images/card4.jpg",
+      "Img": "./images/card4.jpg",
       "Price": "$22.99",
       "Description": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
     }
