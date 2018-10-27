@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://szluzero.github.io/wholesale-catalog-template",
+  "homepage": "https://szluzero.github.io/wholesale-catalog",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d bun"
+    "deploy": "gh-pages -d bundle"
   },
   "author": "",
   "license": "ISC",
